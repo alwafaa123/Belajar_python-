@@ -11,6 +11,7 @@ class dono:
         print('objeck berhasil di buat')
         
     def __str__(self):
+        
         return 'anakmu sangat pintar'
     
     def __le__(self, other):
